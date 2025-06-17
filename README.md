@@ -27,6 +27,8 @@ Este proyecto consiste en un análisis exploratorio y visual del famoso dataset 
 ## 📂 Archivos del repositorio
 
 - `titanic_visualizations.ipynb`: notebook con todo el análisis y visualización paso a paso
+- `titanic.csv`: conjunto de datos utilizado para el análisis (versión original del dataset Titanic)
+
 
 ## 🚀 Cómo usar este proyecto
 
